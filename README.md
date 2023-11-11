@@ -21,6 +21,7 @@ Skills:
 - Bash
 - Kubernetes
 - SLURM
+- Contributor of MPI 4.0 Standard
 - System Architecture
 - GPU Programming and Performance Engineering
 - HPC System Design
