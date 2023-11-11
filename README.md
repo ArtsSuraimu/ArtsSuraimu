@@ -20,3 +20,8 @@ Skills:
 - System Architecture
 - GPU Programming and Performance Engineering
 - HPC System Design
+
+Supports:
+- [MTF.wiki](https://mtf.wiki)
+- [TUM Deutschlandstipendium](https://www.tum.de/studium/studienfinanzierung/stipendien/stipendien-der-tum/deutschlandstipendium)
+- [TransDB](https://transdb.de)
