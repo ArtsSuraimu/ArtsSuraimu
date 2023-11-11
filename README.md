@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 
 Skills: 
-- I design some of the largest supercomputers worldwide, such as [NVIDIA Cambridge-1](https://www.nvidia.com/en-us/data-center/dgx-cloud/cambridge-1/).
+- I design some of the largest supercomputers worldwide, such as [NVIDIA Cambridge-1](https://www.nvidia.com/en-us/data-center/dgx-cloud/cambridge-1/) ( 10 petaflops Rmax )
 - C/C++
+- C#
+- Bash
+- Kubernetes
+- SLURM
 - System Architecture
 - GPU Programming and Performance Engineering
 - HPC System Design
