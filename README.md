@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Working for [NVIDIA](https://nvidia.com) GmbH in Germany, I am a data science product architect and report to the CTO Office. I also co-run NVIDIA Executive Briefing Center (EBC) in Munich, Germany.
-- 🌱 I’m currently learning Phsycology, as a Student of FernUni Hagen. 
 - 💬 Ask me: [t.me/artssuraimu](t.me/artssuraimu) or [arts.yang@tum.de](mailto:arts.moe@tum.de). [GPG Key](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x6c80593d928ed75ed64b6d5e14b1cda7f8ffc161) 6c80593d928ed75ed64b6d5e14b1cda7f8ffc161
 - 😄 Pronouns: she/her
 
