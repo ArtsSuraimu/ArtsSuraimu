@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 Skills: 
 - I design some of the largest supercomputers worldwide, such as [NVIDIA Cambridge-1](https://www.nvidia.com/en-us/data-center/dgx-cloud/cambridge-1/) ( 10 petaflops Rmax )
+- NVIDIA Reference Architecture Responsible, DGX, DGX Scaleout, NCP
 - C/C++
 - C#
 - Bash
