@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Arts Yang aka. Arts "Epiphany" Suraimu. 哈咯，这里是史莱姆哦！
+### Hi there 👋 I'm Arts aka. Arts "Epiphany" Suraimu. 哈咯，这里是史莱姆哦！
 
 <!--
 **ArtsSuraimu/ArtsSuraimu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,6 +27,5 @@ Skills:
 - HPC System Design
 
 Supports:
-- [MTF.wiki](https://mtf.wiki)
 - [TUM Deutschlandstipendium](https://www.tum.de/studium/studienfinanzierung/stipendien/stipendien-der-tum/deutschlandstipendium)
 - [TransDB](https://transdb.de)
