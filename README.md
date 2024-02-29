@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Working for [NVIDIA](https://nvidia.com) GmbH in Germany, I am a data science product architect and report to the CTO Office. I also co-run NVIDIA Executive Briefing Center (EBC) in Munich, Germany.
+- 🔭 Working for [NVIDIA](https://nvidia.com) GmbH in Germany, I am a enterprise product architect and report to the CTO Office. I also co-run NVIDIA Executive Briefing Center (EBC) in Munich, Germany.
 - 💬 Ask me: [t.me/kugelfish](t.me/kugelfish). [GPG Key](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x6c80593d928ed75ed64b6d5e14b1cda7f8ffc161) D343BE2133AA6302
 - 😄 Pronouns: she/her
 
